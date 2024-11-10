@@ -1,4 +1,4 @@
-# Yu YeHoon (유예훈)
+## Yu YeHoon
 
 ## Worked
 
