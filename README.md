@@ -1,6 +1,6 @@
 ## Yu YeHoon
 
-## Worked
+### Worked
 
 **2021.08 ~ 2024.03 파우게임즈**  
 *Server Programmer*
