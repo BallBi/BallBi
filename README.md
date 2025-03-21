@@ -2,6 +2,9 @@
 
 ## Worked
 
+**2024.12 ~         링게임즈**  
+*Server Programmer*
+
 **2021.08 ~ 2024.03 파우게임즈**  
 *Server Programmer*
 
